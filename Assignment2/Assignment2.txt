@@ -1,39 +1,50 @@
-Name:
+Name: Kevin Lo
 
 
-1.
+1.Source code is done by Human. Bytecode is done by java complier
 
-2.
+2. A section of a program
 
-3.
+3. Where the Java virtual machie starts running the program.
 
-4.
+4. Characters
 
-5.
+5.Yes, it is case sensitive
 
-6.
+6. An error in the program
 
-7.
+7. Lets you put text and numbers
 
-8.
+8.//
 
-9.
+9. /*
 
-10.
+*/
 
-11.
+10.Hello Mercury!
+Hello Venus!
+Hello Earth!
+Hello Mars!
+Hello Jupiter!
+Hello Saturn!
+Hello Uranus!
+Hello Neptune!
+Hello Pluto!
 
-12.
 
-13.
+11. byte, short, int, long, float, double, char, boolean
+
+12. Long
+
+13.Double
 
 14.
-a.
-b.
+a.Int
+b.Double
 
-15.
+15.19345
 
-16.
+16. Single Character
 
-17.
+17. False
 
