@@ -1,38 +1,39 @@
 Assignment 5
 Name:
 
-1.
+1.System.out and System.error
 
-2.
+2. System.out.println
 
-3.
+3. import java.util.scanner
 
-4.
+4. java.util
 
 5.
-    5.1.
+    5.1. new scanner(System.in);
 
-    5.2.
+    5.2. System.out.println();
 
-    5.3.
+    5.3. scan.nextLine();
 
-6.
+6. No, because I named it scan
+Scanner dog = new scanner
 
-7.
+7.inData = scan.nextLine();
 
 8. This is in NameEcho.java
 
 9. This is in NameEchoAlt.java
 
-10.
+10. nextInt()
 
 11.
-    11.1.
+    11.1. 2116
 
-    11.2.
+    11.2. -1794967296
 
-    11.3.
+    11.3. put into long
 
 12. This is in AddThree.java
 
-13. 
+13. This is in individetest.java
