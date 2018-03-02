@@ -4,28 +4,28 @@ Name:
 Chapter 13
 ==========
 
-1.
+1. Nothing will happen in terminal. But the line import java.io is missing. And that's prety much it.
 
-2.
+2. Error. Because they are not number
 
-3.
+3. 730 and 0.023
 
-4.
+4. 12.0
 
-5.
+5. Static method is a method with the static keyword attach to it. You don't need an object to tell it to do something
 
-6.
+6. It goes NaN
 
-7.
+7. Not a number
 
-8.
+8. The first line doesn't have a double. The second line converts 1 into a double before the division happens.
 
 
 Chapter 16
 ==========
 
-1.
+1. { and }
 
-2.
+2. == is comparison != is checking if they are not equal
 
-3.
+3. a nested if is basically an if with another if. It will get complicated the more if you put in.
