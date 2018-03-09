@@ -1,18 +1,18 @@
 Assignment 7
 Name:
 
-1.
+1. Floating point arithmetic is not exact
 
-2.
+2. True and False
 
-3.
+3. 6 varieties
 
-4.
+4. It is equal to a specific number and cannot be changed
 
-5.
+5. 90
 
-6.
+6. &&
 
-7.
+7. ||
 
-8.
+8. !
