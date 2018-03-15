@@ -5,25 +5,25 @@ class RunofInteger {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int count;
+        int count; // Variable for repeating
 
-        int end;
+        int end; // Variable for the end of the count
 
-        int times;
+        int Start; // Variable for the first number
 
         System.out.println("Enter Start:");
 
-        times = scan.nextInt();
+        Start = scan.nextInt();
         
         System.out.println("Enter End:");
         
         end = scan.nextInt();
 
-        count = times;
+        count = Start; // equaling the count to start for the first number
 
-        while (count<=times) {
-            System.out.println(count);
-            count = count + 1;
+        while (count <= end) { // looping and limit the count
+            System.out.println(count); // printing out the count which is looping
+            count = count + 1; // increasing the count
         }
     }
 }
