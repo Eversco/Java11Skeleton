@@ -11,11 +11,11 @@ class TwoLargest {
     
     // compute the two largest
     for (int index= 0; index < data.length; index++) {
-        if(data[index] > largest){
+        if(data[index] > largest){ // determines the largest
             secondLargest = largest;
             largest = data[index];
         }
-        if (data[index] > secondLargest && data[index] < largest) {
+        if (data[index] > secondLargest && data[index] < largest) { // Specifies second largest
             secondLargest = data[index];
         }
     }

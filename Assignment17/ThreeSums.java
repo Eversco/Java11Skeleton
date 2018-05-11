@@ -11,9 +11,9 @@ class ThreeSums {
         int totalSum = 0;
         // compute the sums
         for (int index = 0; index < data.length; index++) {
-            if (data[index] % 2 == 0){
+            if (data[index] % 2 == 0){ // only adding even number
                 evenSum += data[index];
-            } else {
+            } else {// only adding odd
                 oddSum += data[index];
             }
         }
